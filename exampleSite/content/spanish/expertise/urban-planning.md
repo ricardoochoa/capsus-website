@@ -21,6 +21,17 @@ expertise:
     key_message: Más de 50 ciudades beneficiadas con nuestro trabajo.
     casestudy_item:
       # casestudy item loop
+      - name: "Modelado de Islas de Calor Urbanas en Pachuca, Hidalgo"
+        case_locations: Pachuca, Hidalgo, México
+        case_years: 2026
+        case_clients: CAMe
+        case_id: ph1
+        case_content: "El proyecto consiste en el desarrollo de una herramienta para el modelado de acciones para mitigar el efecto de isla de calor."
+        tab_image: images/expertise/planning-building/Ilustra-1.png
+        tab_image_webp: images/expertise/planning-building/Ilustra-1.png
+        case_image: images/expertise/planning-building/P1_Leon_Gto.jpg
+        case_image_webp: images/expertise/planning-building/P1_Leon_Gto.jpg
+      # casestudy item loop
       - name: "Escenarios de crecimiento para evaluar los beneficios de la densificación urbana en la ciudad de León, Guanajuato"
         case_locations: León, Estado de Guanajuato, México
         case_years: 2019 - 2020
